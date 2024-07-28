@@ -1,5 +1,7 @@
+import UserForm from "~/components/common/WaitListForm/UserForm";
+
 const WaitlistPage = () => {
-  return <div>WaitlistPage</div>;
+  return <UserForm />;
 };
 
 export default WaitlistPage;
